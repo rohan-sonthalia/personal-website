@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'></a>Memeber of Technical Staff @ Optum (UnitedHeathGroup)
+subtitle: <a href='#'></a>Member of Technical Staff @ Optum (UnitedHeathGroup)
 
 profile:
   align: right
