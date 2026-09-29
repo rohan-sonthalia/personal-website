@@ -57,6 +57,17 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Associate AI Engineer
+      institution: Optum (UHG), Bangalore, India
+      year: Jul 2025 - Present
+      description:
+        - Inventor on 3 patents filed and approved internally (USPTO provisional filing in preparation); won the AI Platform Hackathon and the Provider Services Organisation hackathon; delivered a technical update to 1,200+ employees at the OptumInsight Town Hall.
+        - Designed a parameter efficient dual‑SLM architecure with adapter hot swaps for generating claim settlement summaries, reducing LLM token costs by over 90%.
+        - Built a Contract Intelligence platform using document parsing and LLM‑based extraction pipelines to digitize and surface structured insights from contracts across multiple business lines.
+        - Developed a multi‑agent chatbot for OptumRx’s claims portals using LangGraph, implementing agent‑to‑agent handoffs and dynamic context windowing to handle complex member queries end‑to‑end.
+        - Led end‑to‑end automation of the claim appeals process — partnered with stakeholders and analysts to decompose workflows into AI agent modules, cutting manual processing time 75%+ and delivering $10M+ in annual savings.
+        - Automated root cause analysis and data standardization for denied claims by applying LLM‑based semantic column matching.
+        - Cut daily claims‑summarization processing time from 33 hours to just over 3 hours (>30K claims, 4‑hour SLA) by implementing a queuing mechanism and Horizontal Pod Autoscaling.
     - title: Software Engineer Intern
       institution: Tune AI (formerly NimbleBox.ai), Chennai, India
       year: Jan 2024 - May 2024
@@ -78,6 +89,9 @@
 - title: Publications and Presentations
   type: time_table
   contents:
+    - title: Research Paper
+      year: Dumeaux Lab, University of Western Ontario
+      description: Deep Archetypal Analysis of Gut Microbiome Data for Nonlinear Gene Expression Programs.
     - title: ML+X Forum Presentation
       year: Wisconsin Institute of Discovery
       description: Clustering of Mycoviruses using Transformers and Deep Learning.

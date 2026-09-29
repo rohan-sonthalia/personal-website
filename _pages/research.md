@@ -21,7 +21,7 @@ During my time at the Dumeaux Lab, I worked on conducting Deep Archetypal Analys
 
 I focused on comparing results of multiple open-sourced models that implement deep learning for archytypal analysis. I experimented majorly with [scAAnet](https://github.com/AprilYuge/scAAnet), [midaa](https://github.com/sottorivalab/midaa/tree/main) and [deepAA](https://github.com/bmda-unibas/DeepArchetypeAnalysis).
 
-You can find a link to our prepint [here](https://www.biorxiv.org/content/10.1101/2025.01.29.635381v1).
+You can find a link to our paper [here](https://doi.org/10.1186/s40168-025-02240-5).
 
 ## <span style="font-size: 24px;">Current Research Interests</span>
 My current interests include building around and on top of LLMs.  
